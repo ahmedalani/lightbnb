@@ -13,3 +13,4 @@ INSERT INTO reservations (start_date, end_date, property_id, guest_id) VALUES ('
 INSERT INTO property_reviews (guest_id, property_id, reservation_id, rating, message) VALUES (3, 1, 1, 5, 'message');
 INSERT INTO property_reviews (guest_id, property_id, reservation_id, rating, message) VALUES (2, 2, 2, 5, 'message');
 INSERT INTO property_reviews (guest_id, property_id, reservation_id, rating, message) VALUES (1, 3, 3, 5, 'message');
+
